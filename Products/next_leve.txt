@@ -1,0 +1,7 @@
+uncertain timetable
+- leave house at different time?
+-timetables that are not fixed
+
+
+or like which line is the extreme extent
+
